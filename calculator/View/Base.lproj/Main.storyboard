@@ -95,6 +95,7 @@
                                 <rect key="frame" x="16" y="400" width="80" height="80"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="80" id="Tjz-bg-5I6"/>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="80" id="tad-W9-uKh"/>
                                     <constraint firstAttribute="width" constant="80" id="vy9-ne-gLP"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="33"/>

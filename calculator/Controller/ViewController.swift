@@ -17,13 +17,14 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
     
     @IBAction func numberButtonPressed(_ sender: UIButton) {
         guard let numberText = sender.titleLabel?.text else { return }
         currentNumber += numberText
         displayLabel.text = currentNumber
+        displayLabel.textColor = .white
+        
     }
     
     @IBAction func operationButtonPressed(_ sender: UIButton) {
@@ -86,3 +87,5 @@ class ViewController: UIViewController {
             operation = ""
         }
 }
+
+    
