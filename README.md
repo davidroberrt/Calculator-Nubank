@@ -1,5 +1,10 @@
 # Calculadora IOS com o padrão de cores da Nubank
 
+![page1](https://github.com/davidroberrt/calculatorNubank/assets/54132069/ad13e058-0856-4e16-91fa-c572645c2aa7)
+
+Um dos projetos pessoais mais gratificantes para consolidar o aprendizado!
+
+Calculadora criada utilizando os conhecimentos que adquiri em Swift. E acredite, não foi seguindo tutoriais em vídeo nem nada do tipo. Desenvolvi essa calculadora inteiramente com base nos conhecimentos que acumulei, sem um guia passo a passo, e tem sido incrível ver o resultado ganhando vida fora da IDE!
 
 ## 🚀 Sobre mim
 Atualmente trabalho na área de engenharia de telecomunicações em uma emissora de TV afiliada da Rede Globo na Paraíba e também sou um desenvolvedor de software,  atuo como free-lancer utilizando diversas linguagens...
