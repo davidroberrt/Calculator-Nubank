@@ -26,9 +26,8 @@ Atualmente trabalho na área de engenharia de telecomunicações em uma emissora
 ![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
 ![apple](https://img.shields.io/badge/ios_developer-black?style=for-the-badge&logo=apple&logoColor=white)
 
-## Feedback
+## Favorite
 
-Se você tiver algum feedback, por favor me deixe saber por meio dos comentários e likes no [Youtube](youtu.be/kePxRO98lEY).
 
 Clique na Star do github para favoritar este projeto e acessá-lo quando quiser. 
 
